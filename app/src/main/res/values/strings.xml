@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Dating App</string>
+    <string name="let_s_know_you">Let\'s Know You !</string>
+    <string name="please_fill_all_the_detatil">Please fill aLl the detatil</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="name">Name</string>
+    <string name="city">City</string>
+    <string name="by_clicking_it_you_are_accepting_our_term_and_condition">By clicking it you are accepting our term and condition</string>
+    <string name="continue.">Continue</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dating">Dating</string>
+    <string name="chat">Chat</string>
+    <string name="profile">Profile</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="cardview">CardView</string>
+</resources>
